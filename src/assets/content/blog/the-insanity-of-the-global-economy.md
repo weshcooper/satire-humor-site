@@ -1,7 +1,7 @@
 ---
 title: The Insanity of the Global Economy
 author: Allen Ginsberg
-date: 
+date: 2022-11-28T13:00:00Z
 hero_image: "/src/assets/content/images/giorgio-trovato-wyxqqpyfnk8-unsplash.jpg"
 
 ---
